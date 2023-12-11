@@ -1,5 +1,6 @@
 # Road-Accident-Analysis
 A data Analysis project on Road accidents in UK, 2021 - 2022  Using Microsoft Excel
+
 ## Process :
 1. First i explored 3.07 Million Record on  Road accidents for 2021 and 2022.
 2. Second i have done some data cleaning on the data
@@ -25,7 +26,6 @@ A data Analysis project on Road accidents in UK, 2021 - 2022  Using Microsoft Ex
 5. Current Year Casualties VS Previous Year Casualties Monthly Trend
    ![image](https://github.com/Minaaa01/Road-Accident-Analysis/assets/109883250/6cd58dbd-b1f1-4ba2-8fbe-528114f9ab74)
 ## Interactive Dashboard
-
 ![image](https://github.com/Minaaa01/Road-Accident-Analysis/assets/109883250/d8e7718a-dd85-4dab-beb5-7b3b88b5fdc1)
 
 
