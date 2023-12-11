@@ -24,8 +24,9 @@ A data Analysis project on Road accidents in UK, 2021 - 2022  Using Microsoft Ex
    ![image](https://github.com/Minaaa01/Road-Accident-Analysis/assets/109883250/30153539-a54a-42f5-a1f1-d716c609b133)
 5. Current Year Casualties VS Previous Year Casualties Monthly Trend
    ![image](https://github.com/Minaaa01/Road-Accident-Analysis/assets/109883250/6cd58dbd-b1f1-4ba2-8fbe-528114f9ab74)
+## Interactive Dashboard
 
-
+![image](https://github.com/Minaaa01/Road-Accident-Analysis/assets/109883250/d8e7718a-dd85-4dab-beb5-7b3b88b5fdc1)
 
 
 
