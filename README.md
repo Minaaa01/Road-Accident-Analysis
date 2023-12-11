@@ -14,6 +14,12 @@ A data Analysis project on Road accidents in UK, 2021 - 2022  Using Microsoft Ex
 5. Analysis the distribution of total Casualties by road surface
 6. Analysis monthly trend that shwoing the comparison of Casualties for current yaer 2021 and previous year 2022
 7. Understanding the CAUSE AND REASONS behind the accidents, injuries and deaths of people.
+## Skills Used :
+1. Data Cleaning Methods
+2. Pivot Tables
+3. Pivot Charts
+4. Power Query
+5. Slicers
 ## Sample Plots :
 1. Casualties By Road Type
    ![image](https://github.com/Minaaa01/Road-Accident-Analysis/assets/109883250/5c606eac-af78-498b-a207-72b0fe7651fe)
